@@ -1,0 +1,347 @@
+.title{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.title a:link{
+    color: #ffff00;
+}
+.title a:visited{
+    color: #00ffff;
+}
+.bodyimg{
+    display: flex;
+    justify-content: center;
+    border: 1px solid #ff00ff;
+    border-radius: 20px;
+}
+/*.title h1{
+    padding-left: 50%;
+}*/
+body{
+    margin: 0%;
+}
+.BTScards{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: purple;
+    justify-content: space-evenly;
+    align-content: center;
+}
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:darkviolet;
+    justify-content: space-evenly;
+    align-content: center;
+}
+.aboutBTS{
+    /*display: flex;
+    flex-wrap: wrap;*/
+    background-color: cornflowerblue;
+    justify-content: space-evenly;
+    align-content: center;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 500px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.aboutBTS h2{
+    text-align: center;
+}
+.aboutBTS p{
+    opacity: 0;
+    text-align: center;
+}
+.aboutBTS h3{
+    opacity: 0;
+    text-align: center;
+}
+.aboutBTS:hover h3{
+    opacity: 0.8;
+    text-align: center;
+}
+.aboutBTS:hover p{
+    opacity: 0.8;
+    text-align: center;
+}
+.aboutBTS:hover a{
+    opacity: 0.8;
+    text-align: center;
+}
+.aboutARMY{
+    background-color: cornflowerblue;
+    justify-content: space-evenly;
+    align-content: center;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 500px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.aboutARMY h2{
+    text-align: center;
+}
+.aboutARMY p{
+    opacity: 0;
+    text-align: center;
+}
+.aboutARMY h3{
+    opacity: 0;
+    text-align: center;
+}
+.aboutARMY:hover h3{
+    opacity: 0.8;
+    text-align: center;
+}
+.aboutARMY:hover p{
+    opacity: 0.8;
+    text-align: center;
+}
+.aboutARMY:hover a{
+    opacity: 0.8;
+    text-align: center;
+}
+.RM{
+    background-color: bisque;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 310px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.RM h2{
+    text-align: center;
+}
+.RM p{
+    opacity: 0;
+}
+.RM h3{
+    opacity: 0;
+}
+.RM:hover h3{
+    opacity: 0.8;
+}
+.RM:hover p{
+    opacity: 0.8;
+}
+.RM:hover a{
+    opacity: 0.8;
+}
+.RM a:link{
+    color: blue;
+}
+.RM a:visited{
+    color: blueviolet;
+}
+.Jin{
+    background-color: bisque;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 310px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.Jin h2{
+    text-align: center;
+}
+.Jin p{
+    opacity: 0;
+}
+.Jin h3{
+    opacity: 0;
+}
+.Jin:hover h3{
+    opacity: 0.8;
+}
+.Jin:hover p{
+    opacity: 0.8;
+}
+.Jin a:link{
+    color: Blue;
+}
+.Jin a:visited{
+    color: blueviolet;
+}
+.Suga{
+    background-color: bisque;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 310px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.Suga h2{
+    text-align: center;
+}
+.Suga p{
+    opacity: 0;
+}
+.Suga h3{
+    opacity: 0;
+}
+.Suga:hover h3{
+    opacity: 0.8;
+}
+.Suga:hover p{
+    opacity: 0.8;
+}
+.Suga a:link{
+    color: Blue;
+}
+.Suga a:visited{
+    color: blueviolet;
+}
+.J-Hope{
+    background-color: bisque;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 310px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.J-Hope h2{
+    text-align: center;
+}
+.J-Hope p{
+    opacity: 0;
+}
+.J-Hope h3{
+    opacity: 0;
+}
+.J-Hope:hover h3{
+    opacity: 0.8;
+}
+.J-Hope:hover p{
+    opacity: 0.8;
+}
+.J-Hope a:link{
+    color: Blue;
+}
+.J-Hope a:visited{
+    color: blueviolet;
+}
+.Jimin{
+    background-color: bisque;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 310px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.Jimin h2{
+    text-align: center;
+}
+.Jimin p{
+    opacity: 0;
+}
+.Jimin h3{
+    opacity: 0;
+}
+.Jimin:hover h3{
+    opacity: 0.8;
+}
+.Jimin:hover p{
+    opacity: 0.8;
+}
+.Jimin:hover a{
+    opacity: 0.8;
+}
+.Jimin a:link{
+    color: Blue;
+}
+.Jimin a:visited{
+    color: blueviolet;
+}
+.V{
+    background-color: bisque;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 310px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.V h2{
+    text-align: center;
+}
+.V p{
+    opacity: 0;
+}
+.V h3{
+    opacity: 0;
+}
+.V:hover h3{
+    opacity: 0.8;
+}
+.V:hover p{
+    opacity: 0.8;
+}
+.V:hover a{
+    opacity: 0.8;
+}
+.V a:link{
+    color: Blue;
+}
+.V a:visited{
+    color: blueviolet;
+}
+.Jungkook{
+    background-color: bisque;
+    border-radius: 20px;
+    border:  2px solid #000000;
+    width: 310px;
+    padding: 20px;
+    margin: 25px;
+    font-family: sans-serif;
+}
+.Jungkook h2{
+    text-align: center;
+}
+.Jungkook p{
+    opacity: 0;
+}
+.Jungkook h3{
+    opacity: 0;
+}
+.Jungkook:hover h3{
+    opacity: 0.8;
+}
+.Jungkook:hover p{
+    opacity: 0.8;
+}
+.Jungkook:hover a{
+    opacity: 0.8;
+}
+.Jungkook a:link{
+    color: Blue;
+}
+.Jungkook a:visited{
+    color: blueviolet;
+}
+.text{
+    text-align: center;
+}
+.anthem{
+    text-align: center;
+    background-color: gold;
+    color: purple;
+}
+.endText{
+    display: flex;
+    justify-content: center;
+}
+.endImage{
+    display: flex;
+    justify-content: center;
+}
